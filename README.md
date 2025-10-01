@@ -73,8 +73,8 @@ Para configurar e rodar o projeto localmente, siga os pré-requisitos e os passo
 O Fala Direito é um projeto de código aberto e colaborativo. Contribuições serão sempre bem-vindas, seja através de sugestões de melhoria, relato de bugs ou novas funcionalidades. Para mais detalhes, consulte o nosso guia de contribuição ou abra uma issue no repositório.
 
 ## Nosso Time
-Talisson Mendes (tsms) – Gerente de projeto, responsável pelo design, documentação, concepção e análise de requisitos.
+**José Leandro** (jlsf): Atua como Gerente de Projeto (GP). Foi responsável pelo planejamento, organização e acompanhamento do cronograma, definição de prioridades, coordenação das atividades da equipe e também pela função de Analista de Qualidade (QA), realizando testes do sistema e garantindo o atendimento aos requisitos funcionais e não funcionais.
 
-Júlia Nunes (jnas2) – Desenvolvimento front-end, testes e experiência do usuário.
+**Júlia Nunes** (jnas2): Atua como Desenvolvedora Front-end. Foi responsável pela implementação da interface do usuário, integração com APIs e desenvolvimento das funcionalidades visuais do sistema. Além disso, atuou como Designer de UX/UI, sendo responsável pelo design de interface, protótipos, fluxos de navegação e experiência do usuário.
 
-José Leandro (jlsf1) – Desenvolvimento backend, integração com IA e devops.
+**Talisson Mendes** (tsms): Atua como Desenvolvedor Back-end. Foi responsável pelo desenvolvimento da lógica de negócio, comunicação com banco de dados, integração com o LLM e APIs externas. Também desempenhou o papel de DevOps / SysAdmin, sendo responsável pelo deploy, configuração de servidores, monitoramento, métricas de desempenho e manutenção da infraestrutura.
